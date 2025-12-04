@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![GitHub Streak](https://streak-stats.demolab.com?user=sampah92)](https://git.io/streak-stats)
+![](https://raw.githubusercontent.com/sampah92/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 <!--
 **sampah92/sampah92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
